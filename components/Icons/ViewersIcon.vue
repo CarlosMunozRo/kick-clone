@@ -1,0 +1,3 @@
+<template>
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="-mt-0.5"><g clip-path="url(#clip0_2356_9770)"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.5 9C6.985 9 9 6.985 9 4.5C9 2.015 6.985 0 4.5 0C2.015 0 0 2.015 0 4.5C0 6.985 2.015 9 4.5 9ZM4.5 2C5.88 2 7 3.12 7 4.5C7 5.88 5.88 7 4.5 7C3.12 7 2 5.88 2 4.5C2 3.12 3.12 2 4.5 2ZM8 10H0V12V16H2V12H8V16H16V10H10H8ZM16 6C16 7.65685 14.6569 9 13 9C11.3431 9 10 7.65685 10 6C10 4.34315 11.3431 3 13 3C14.6569 3 16 4.34315 16 6Z" fill="white"></path></g><defs><clipPath id="clip0_2356_9770"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg>
+</template>

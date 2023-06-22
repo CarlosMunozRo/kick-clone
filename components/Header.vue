@@ -11,8 +11,8 @@
                         <a href="#" class="h-full text-base font-bold leading-[60px] text-white transition-all duration-75 ease-in hover:text-[#53FC18] ml-[2.25rem]">Following</a>
                         <div class="relative !ml-2 text-left">
                             <div class="flex items-center md:gap-5">
-                                <button class="hidden rounded p-2 px-2.5 hover:bg-secondary-lightest md:block text-white">
-                                    <div style="width: 20px; height: 20px;"><HeaderDots /></div>
+                                <button class="hidden rounded p-2 px-2.5 hover:bg-[#474F54] md:block text-white">
+                                    <div style="width: 20px; height: 20px;"><IconsHeaderDots /></div>
                                 </button>
                             </div>
                         </div>
