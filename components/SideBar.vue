@@ -35,7 +35,7 @@
             </li>
             <li>
                 <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
-                    <img class="w-8 h-8 w-[15%] text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white rounded-full" src="https://files.kick.com/images/user/336946/profile_image/conversion/95f165f9-dfe4-4ea2-a3a1-0e91d2f2263c-thumb.webp" alt="" srcset="">
+                    <img class="w-8 h-8 w-[15%] text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white rounded-full" src="/user-profile-pic.png" alt="" srcset="">
                     <div class="flex flex-col overflow-hidden w-[55%]">
                         <span class="ml-3">Sam</span>
                         <span class="ml-3 text-[#7BADC3] whitespace-nowrap text-ellipsis overflow-hidden">Just Chatting</span>
@@ -59,7 +59,7 @@
             </li>
             <li>
                 <a href="#" class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
-                    <img class="w-8 h-8 w-[15%] text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white rounded-full" src="https://files.kick.com/images/user/442754/profile_image/conversion/801dbde9-cea8-41cf-a0db-c3ee75b48dd2-thumb.webp" alt="" srcset="">
+                    <img class="w-8 h-8 w-[15%] text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white rounded-full" src="/user-profile-pic.png" alt="" srcset="">
                     <div class="flex flex-col overflow-hidden w-[55%]">
                         <span class="ml-3">Kate</span>
                         <span class="ml-3 text-[#7BADC3] whitespace-nowrap text-ellipsis overflow-hidden">House Flipper</span>

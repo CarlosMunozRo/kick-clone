@@ -32,7 +32,7 @@
             <div class="flex w-full items-center justify-end px-2 md:w-fit lg:px-3">
                 <div>
                     <button type="button" class="flex text-sm bg-gray-800 rounded-full focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" aria-expanded="false" data-dropdown-toggle="dropdown-user">
-                        <img class="w-10 h-10 rounded-full" src="https://dbxmjjzl5pc1g.cloudfront.net/296c3690-eee0-4661-b328-46e633323036/images/user-profile-pic.png" alt="user photo">
+                        <img class="w-10 h-10 rounded-full" src="/user-profile-pic.png" alt="user photo">
                     </button>
                 </div>
             </div>
